@@ -1,0 +1,5 @@
+(library
+ (name mm_wasm)
+ (public_name mm-wasm)
+ (modules varmap)
+ (libraries encoding))
